@@ -1,0 +1,6 @@
+-----------------------------------------------
+- Upcoming Feature's
+  - Speech Recognition
+  - Social Features
+  - Cultural Integration
+-----------------------------------------------

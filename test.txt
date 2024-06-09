@@ -1,0 +1,32 @@
+
+   Unit : 2
+  -->Words : 
+      breuvages
+      eau
+      nourriture
+      pain
+      lait
+      thé
+      café
+      boire
+      tableau
+      garder
+      livre
+      manger
+      pardon
+      il est
+      Elle est
+      ici
+      là
+      accueillir
+      problème
+  -->Sentences : 
+      Il mange de la nourriture
+      Elle boit du lait
+      il mange du pain
+      vous êtes les bienvenus!
+      aucun problème
+      Il est Paul
+      oui s'il vous plait
+      Elle est là, il est là
+      Julia aime le café

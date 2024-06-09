@@ -1,0 +1,74 @@
+id,unitId,english,french,spanish,german,scorePerQuestion
+,,,,,,
+1,1,He,Il,Él,Er,0.5
+2,1,She,Elle,Ella,Sie,0.5
+3,1,Girl,Fille,Chica,Mädchen,0.5
+4,1,Man,Homme,Hombre,Mann,0.5
+5,1,She is very tall,Elle est tres grande,Ella es muy alta,Sie ist sehr groß,1
+6,1,You are very smart,Tu es très intelligent,Eres muy inteligente,Sie sind sehr intelligent,1
+7,1,I am sorry,Je suis désolé,Lo siento,Es tut mir leid,1
+8,1,They are here,Ils sont ici,Ellos están aquí,Sie sind hier,1
+9,1,Good Morning,Bonjour,Buen día,Guten Morgen,1
+10,2,water,eau,agua,Wasser,0.5
+11,2,bread,pain,pan,brot,0.5
+12,2,coffee,café,café,Kaffee,0.5
+13,2,pardon,pardon,indulto,Begnadigung,0.5
+14,2,"I drink, you drink, he drinks","Je bois, tu bois, il boit","Bebo, bebes, bebe","Ich trinke, du trinkst, er trinkt",1
+15,2,you're welcome!,vous êtes les bienvenus!,¡de nada!,Gern geschehen!,1
+16,2,no problem,aucun problème,ningún problema,Kein Problem,1
+17,2,julia likes coffee,Julia aime le café,A Julia le gusta el café,Julia mag Kaffee,1
+18,2,he eats bread,il mange du pain,él come pan,er isst Brot,1
+19,3,happy,heureux,feliz,Glücklich,0.5
+20,3,excuse me,excusez-moi,disculpe,Verzeihung,0.5
+21,3,goodbye,au revoir,adiós,Verabschiedung,0.5
+22,3,read,lire,leer,lesen,0.5
+23,3,nice to meet you,ravi de vous rencontrer,encantado de conocerlo,"Schön, dich kennenzulernen",1
+24,3,"I eat ,you eat, he eats","Je mange, tu manges, il mange","Como, comes, él come","Ich esse, du isst, er isst",1
+25,3,juan speaks french,Juan parle français,Juan habla francés,Juan spricht Französisch,1
+26,3,do you speak spanish?,parlez-vous espagnol?,¿hablas español?,sprichst du spanisch?,1
+27,3,"no, I'm sorry. I speak german",non je suis désolé. Je parle allemand,"no, lo siento. Hablo alemán","Nein, tut mir leid. Ich spreche Deutsch",1
+28,4,engineer,ingénieur,ingeniero,Ingenieur,0.5
+29,4,professor,professeur,profesor,Professor,0.5
+30,4,yes,Oui,Sí,Ja,0.5
+31,4,good,bien,bien,Gut,0.5
+32,4,you're welcome,vous êtes les bienvenus,de nada,Gern geschehen,1
+33,4, she wants to be a pilot,Elle veut être pilote,Ella quiere ser piloto,Sie möchte Pilotin sein,1
+34,4,"no,I'm sorry",non je suis désolé,"no, lo siento","Nein, tut mir leid",1
+35,4,maria is a doctor,Maria est médecin,María es doctora,Maria ist Arzt,1
+36,4,thief's are bad men,Les voleurs sont de mauvais hommes,Los ladrones son hombres malos,Dieb sind schlechte Männer,1
+37,5,ice cream,glace,helado,Eiscreme,0.5
+38,5,phone,téléphone,teléfono,Telefon,0.5
+39,5,Sunday,Dimanche,Domingo,Sonntag,0.5
+40,5,father,père,padre,Vater,0.5
+41,5,I need water,J'ai besoin d'eau,necesito agua,ich brauche Wasser,1
+42,5,what's the time?,quelle heure est-il?,¿que hora es?,Wie viel Uhr ist es?,1
+43,5,paul is my brother,Paul est mon frère,Paul es mi hermano,Paul ist mein Bruder,1
+44,5,"sorry, but you need a passport","Désolé, mais vous avez besoin d'un passeport","Lo siento, pero necesitas un pasaporte","Entschuldigung, aber Sie brauchen einen Reisepass",1
+45,5,I got hundred marks in exam,J'ai des centaines de notes à l'examen,Tengo cien marcas en el examen,Ich habe hundert Markierungen in der Prüfung bekommen,1
+46,6,right,droite,bien,Rechts,0.5
+47,6,west,Ouest,Oeste,West,0.5
+48,6,moon,lune,luna,Mond,0.5
+49,6,heart,cœur,corazón,Herz,0.5
+50,6,juan has a pain in his head ,Juan a une douleur dans sa tête,Juan tiene un dolor en la cabeza,Juan hat Schmerzen im Kopf,1
+51,6,say numbers between one to ten,Dites des chiffres entre un à dix,Diga números entre uno a diez,Sagen Sie Zahlen zwischen eins und zehn,1
+52,6,sun rises in the east,Le soleil se lève à l'est,El sol sale en el este,Die Sonne steigt im Osten auf,1
+53,6,it's raining too hard,Il pleut trop dur,está lloviendo demasiado,Es regnet zu hart,1
+54,6,the snow is soft,La neige est douce,la nieve es suave,Der Schnee ist weich,1
+55,7,sad,triste,triste,traurig,0.5
+56,7,bored,ennuyé,aburrido,gelangweilt,0.5
+57,7,car,voiture,auto,Auto,0.5
+58,7,festival,festival,festival,Festival,0.5
+59,7,computer is smart,L'ordinateur est intelligent,la computadora es inteligente,Computer ist intelligent,1
+60,7,juan seems happy,Juan semble heureux,Juan parece feliz,Juan scheint glücklich zu sein,1
+61,7,excited for festival,Excité pour le festival,Emocionado por el festival,aufgeregt für Festival,1
+62,7,lion is the king of forest,Le lion est le roi de la forêt,León es el rey del bosque,Löwe ist der König des Waldes,1
+63,7,please calm down,Calmez vous s'il vous plait,por favor calmate,bitte beruhigen,1
+64,8,vegetables,légumes,verduras,Gemüse,0.5
+65,8,october,octobre,octubre,Oktober,0.5
+66,8,million,million,millón,Million,0.5
+67,8,social media,réseaux sociaux,medios de comunicación social,sozialen Medien,0.5
+68,8,I am from India,Je viens d'Inde,yo soy de India,Ich komme aus Indien,1
+69,8,elon musk is a billionaire,Elon Musk est un milliardaire,Elon Musk es multimillonario,Elon Moschus ist ein Milliardär,1
+70,8,seema plays piano very well,Seema joue très bien du piano,Seema juega muy bien el piano,Seema spielt sehr gut Klavier,1
+71,8,for diet eat rice,pour le régime alimentaire du riz,"Para la dieta, comer arroz",Für Diät Rice essen,1
+72,8,kitchen is the best part of a house,La cuisine est la meilleure partie d'une maison,La cocina es la mejor parte de una casa,Küche ist der beste Teil eines Hauses,1

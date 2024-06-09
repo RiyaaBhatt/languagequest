@@ -1,0 +1,31 @@
+LanguageQuest Team:
+
+- Divij Modi
+  Founder and Chairman of LanguageQuest
+  - Visionary leader and founder
+  - Passionate about language learning
+  - Committed to accessibility
+  - Shapes company's trajectory
+----------------------------------------------
+- Riya Bhatt
+  Co-Founder & CEO
+  - Computer scientist
+  - Groundbreaking work in crowdsourcing
+  - Innovative collective intelligence development
+----------------------------------------------
+- Divya Rathod
+  Lead Developer
+  - Expert in development
+  - Crafts seamless app experience
+----------------------------------------------
+- Disha Shah
+  DataBase Expert
+  - Data Scientist
+  - Mangaes Database
+-----------------------------------------------
+- Feni Patodiya
+  Lead Manager and Lead Tester
+  - Manages testin side of app
+  - Manages user-side and management operations
+-----------------------------------------------
+

@@ -1,0 +1,247 @@
+id,contentId,courseTypeId,unitId,english,french,spanish,german
+,,,,,,,
+1,1,1,1,Good Morning,Bonjour,Buen día,Guten Morgen
+2,1,1,1,Good Afternoon,Bon après-midi,Buenas tardes,Guten Tag
+3,1,1,1,Good Evening,Bonne soirée,Buenas noches,Guten Abend
+4,1,1,1,Good night,Bonne nuit,Buenas noches,Gute Nacht
+5,1,1,1,I am,Je suis,Soy,Ich bin
+6,1,1,1,You,Toi,Tú,Du
+7,1,1,1,He,Il,Él,Er
+8,1,1,1,She,Elle,Ella,Sie
+9,1,1,1,We,Nous,Nosotros,Wir
+10,1,1,1,They,Ils,Ellos,Sie
+11,1,1,1,Girl,Fille,Chica,Mädchen
+12,1,1,1,Woman,Femme,Mujer,Frau
+13,1,1,1,Boy,Garçon,Chico,Junge
+14,1,1,1,Man,Homme,Hombre,Mann
+15,1,1,1,Thank You,Merci,Gracias,Danke
+16,1,1,1,Please,S'il te plaît,Por favor,Bitte
+17,1,1,1,Yes,Oui,Sí,Ja
+18,1,1,1,No,Non,No,NEIN
+19,1,1,1,Is,Thé,Té,Tee
+20,1,1,1,Are,Café,Café,Kaffee
+21,1,1,1,Sorry,Boire,Beber,Trinken
+22,2,1,1,Hello Paul,Salut Paul,Hola Paul,Hallo Paul
+23,2,1,1,Goodyee julia,Au revoir Julia,Adiós Julia,Auf Wiedersehen Julia
+24,2,1,1,You are nice,Tu es gentil,Eres amable,Du bist nett
+25,2,1,1,She is very tall,Elle est tres grande,Ella es muy alta,Sie ist sehr groß
+26,2,1,1,I am sorry,Café ou thé,Café o té,Kaffee oder Tee
+27,2,1,1,You are very smart,Tu es très intelligent,Eres muy inteligente,Sie sind sehr intelligent
+28,2,1,1,GoodMorning julia,Bonjour Julia,Buenos días Julia,Guten Morgen Julia
+29,2,1,1,Water please,"De l'eau, s'il vous plaît",Puede traerme agua,"Wasser, bitte"
+30,2,1,1,They are here,Ils sont de retour,Ellos están de regreso,Sie sind zurück
+31,2,1,1,I am Michael,Je suis Michael,soy Michael,Ich bin Michael
+32,1,1,2,beverages,breuvages,bebidas,Getränke
+33,1,1,2,water,eau,agua,Wasser
+34,1,1,2,food,nourriture,alimento,Essen
+35,1,1,2,bread,pain,pan,brot
+36,1,1,2,milk,lait,leche,Milch
+37,1,1,2,tea,thé,té,Tee
+38,1,1,2,coffee,café,café,Kaffee
+39,1,1,2,drink,boire,beber,trinken
+40,1,1,2,table,tableau,mesa,Tisch
+41,1,1,2,keep,garder,mantener,halten
+42,1,1,2,book,livre,libro,Buch
+43,1,1,2,eat,manger,comer,essen
+44,1,1,2,pardon,pardon,indulto,Begnadigung
+45,1,1,2,he's,il est,él es,er ist
+46,1,1,2,she's,Elle est,Ella es,sie ist
+47,1,1,2,here,ici,aquí,Hier
+48,1,1,2,there,là,allá,Dort
+49,1,1,2,welcome,accueillir,bienvenido,Willkommen
+50,1,1,2,problem,problème,problema,Problem
+51,2,1,2,"I drink, you drink, he drinks","Je bois, tu bois, il boit","Bebo, bebes, bebe","Ich trinke, du trinkst, er trinkt"
+52,2,1,2,he's eating food,Il mange de la nourriture,El esta comiendo comida,Er isst Essen
+53,2,1,2,she's drinking milk,Elle boit du lait,Ella esta bebiendo leche,Sie trinkt Milch
+54,2,1,2,he eats bread,il mange du pain,él come pan,er isst Brot
+55,2,1,2,you're welcome!,vous êtes les bienvenus!,¡de nada!,Gern geschehen!
+56,2,1,2,no problem,aucun problème,ningún problema,Kein Problem
+57,2,1,2,he's paul,Il est Paul,El es Paul,Er ist Paul
+58,2,1,2,yes please,oui s'il vous plait,"sí, por favor","Ja, bitte"
+59,2,1,2,"she's here,he's there","Elle est là, il est là","Ella esta aquí, él está ahí","Sie ist hier, er ist da"
+60,2,1,2,julia likes coffee,Julia aime le café,A Julia le gusta el café,Julia mag Kaffee
+61,1,1,3,happy,heureux,feliz,Glücklich
+62,1,1,3,sad,triste,triste,traurig
+63,1,1,3,cry,pleurer,llorar,weinen
+64,1,1,3,jumping,saut,salto,Springen
+65,1,1,3,running,en cours d'exécution,correr,läuft
+66,1,1,3,book,livre,libro,Buch
+67,1,1,3,read,lire,leer,lesen
+68,1,1,3,excuse me,excusez-moi,disculpe,Verzeihung
+69,1,1,3,spanish,Espagnol,español,Spanisch
+70,1,1,3,german,Allemand,alemán,Deutsch
+71,1,1,3,french,Français,francés,französisch
+72,1,1,3,english,Anglais,inglés,Englisch
+73,1,1,3,speak,parler,hablar,sprechen
+74,1,1,3,do,faire,hacer,Tun
+75,1,1,3,nice,bon,lindo,Hübsch
+76,1,1,3,meet,rencontrer,encontrarse,treffen
+77,1,1,3,apple,pomme,manzana,Apfel
+78,1,1,3,goodbye,au revoir,adiós,Verabschiedung
+79,1,1,3,say,dire,decir,sagen
+80,1,1,3,watch,montre,mirar,betrachten
+81,1,1,3,generally,en général,generalmente,allgemein
+82,2,1,3,"excuse me , please , I am sorry","Excusez-moi, s'il vous plaît, je suis désolé","Disculpe, por favor, lo siento","Entschuldigung, bitte, es tut mir leid"
+83,2,1,3,do you speak spanish?,parlez-vous espagnol?,¿hablas español?,sprichst du spanisch?
+84,2,1,3,"no, I'm sorry. I speak german",non je suis désolé. Je parle allemand,"no, lo siento. Hablo alemán","Nein, tut mir leid. Ich spreche Deutsch"
+85,2,1,3,nice to meet you,ravi de vous rencontrer,encantado de conocerlo,"Schön, dich kennenzulernen"
+86,2,1,3,"yes, water please","Oui, l'eau s'il vous plaît","si, agua por favor","Ja, bitte Wasser"
+87,2,1,3,"I eat ,you eat, he eats","Je mange, tu manges, il mange","Como, comes, él come","Ich esse, du isst, er isst"
+88,2,1,3,"I drink , you drink , he drinks","Je bois, tu bois, il boit","Bebo, bebes, bebe","Ich trinke, du trinkst, er trinkt"
+89,2,1,3,generally speaking,en général,generalmente hablando,allgemein gesagt
+90,2,1,3,goodbye,au revoir,adiós,Verabschiedung
+91,2,1,3,juan speaks french,Juan parle français,Juan habla francés,Juan spricht Französisch
+92,1,2,4,doctor,médecin,doctor,Arzt
+93,1,2,4,engineer,ingénieur,ingeniero,Ingenieur
+94,1,2,4,builder,constructeur,constructor,Erbauer
+95,1,2,4,plumber,plombier,plomero,Klempner
+96,1,2,4,pilot,pilote,piloto,Pilot
+97,1,2,4,lawyer,avocat,abogado,Rechtsanwalt
+98,1,2,4,police,police,policía,Polizei
+99,1,2,4,student,étudiant,alumno,Student
+100,1,2,4,teacher,professeur,maestro,Lehrer
+101,1,2,4,professor,professeur,profesor,Professor
+102,1,2,4,thief,voleur,ladrón,Dieb
+103,1,2,4,good,bien,bien,Gut
+104,1,2,4,bad,mauvais,malo,schlecht
+105,1,2,4,men,Hommes,hombres,Männer
+106,1,2,4,women,femmes,mujer,Frauen
+107,1,2,4,man,homme,hombre,Mann
+108,1,2,4,woman,femme,mujer,Frau
+109,1,2,4,no,Non,No,NEIN
+110,1,2,4,yes,Oui,Sí,Ja
+111,1,2,4,welcome,accueillir,bienvenido,Willkommen
+112,1,2,4,singing,en chantant,cantando,Singen
+113,2,2,4,maria is a doctor,Maria est médecin,María es doctora,Maria ist Arzt
+114,2,2,4,he was a thief,C'était un voleur,El era un ladrón,Er war ein Dieb
+115,2,2,4,george is a good man,George est un homme bon,George es un buen hombre,George ist ein guter Mann
+116,2,2,4,thief's are bad men,Les voleurs sont de mauvais hommes,Los ladrones son hombres malos,Dieb sind schlechte Männer
+117,2,2,4,"yes,please",oui s'il vous plait,"sí, por favor","Ja, bitte"
+118,2,2,4,"no,I'm sorry",non je suis désolé,"no, lo siento","Nein, tut mir leid"
+119,2,2,4,you're welcome,vous êtes les bienvenus,de nada,Gern geschehen
+120,2,2,4,I like my teacher,J'aime mon professeur,me gusta mi maestro,ich mag meinen Lehrer
+121,2,2,4,the students are singing,Les étudiants chantent,Los estudiantes están cantando,Die Schüler singen
+122,2,2,4,she wants to be a pilot,Elle veut être pilote,Ella quiere ser piloto,Sie möchte Pilotin sein
+123,1,2,5,ice cream,glace,helado,Eiscreme
+124,1,2,5,friend,ami,amigo,Freund
+125,1,2,5,taxi,Taxi,Taxi,Taxi
+126,1,2,5,phone,téléphone,teléfono,Telefon
+127,1,2,5,passport,passeport,pasaporte,Reisepass
+128,1,2,5,suitcase,valise,maleta,Koffer
+129,1,2,5,my,mon,mi,Mein
+130,1,2,5,need,besoin,necesidad,brauchen
+131,1,2,5,Monday,Lundi,Lunes,Montag
+132,1,2,5,Sunday,Dimanche,Domingo,Sonntag
+133,1,2,5,Wednesday,Mercredi,Miércoles,Mittwoch
+134,1,2,5,hundred,cent,centenar,hundert
+135,1,2,5,one,un,uno,eins
+136,1,2,5,zero,zéro,cero,null
+137,1,2,5,ten,dix,diez,zehn
+138,1,2,5,father,père,padre,Vater
+139,1,2,5,brother,frère,hermano,Bruder
+140,1,2,5,mother,mère,madre,Mutter
+141,1,2,5,time,temps,tiempo,Zeit
+142,1,2,5,mother,mère,madre,Mutter
+143,2,2,5,my taxi,Mon taxi,mi taxi,mein Taxi
+144,2,2,5,the passport,le passeport,El pasaporte,der Pass
+145,2,2,5,I need water,J'ai besoin d'eau,necesito agua,ich brauche Wasser
+146,2,2,5,"I need a taxi, please","J'ai besoin d'un taxi, s'il vous plaît","Necesito un taxi, por favor",Ich brauche bitte ein Taxi
+147,2,2,5,she is my mother,elle est ma mère,ella es mi madre,sie ist meine Mutter
+148,2,2,5,I got hundred marks in exam,J'ai des centaines de notes à l'examen,Tengo cien marcas en el examen,Ich habe hundert Markierungen in der Prüfung bekommen
+149,2,2,5,what's the time?,quelle heure est-il?,¿que hora es?,Wie viel Uhr ist es?
+150,2,2,5,paul is my brother,Paul est mon frère,Paul es mi hermano,Paul ist mein Bruder
+151,2,2,5,let's eat ice cream,Mangeons de la glace,comamos helado,Lass uns Eis essen
+152,2,2,5,"sorry, but you need a passport","Désolé, mais vous avez besoin d'un passeport","Lo siento, pero necesitas un pasaporte","Entschuldigung, aber Sie brauchen einen Reisepass"
+153,2,2,5,paul is my brother,Paul est mon frère,Paul es mi hermano,Paul ist mein Bruder
+154,2,2,5,let's eat ice cream,Mangeons de la glace,comamos helado,Lass uns Eis essen
+155,2,2,5,"sorry, but you need a passport","Désolé, mais vous avez besoin d'un passeport","Lo siento, pero necesitas un pasaporte","Entschuldigung, aber Sie brauchen einen Reisepass"
+156,1,2,6,left,gauche,izquierda,links
+157,1,2,6,right,droite,bien,Rechts
+158,1,2,6,straight,droit,derecho,gerade
+159,1,2,6,north,nord,norte,Norden
+160,1,2,6,south,sud,sur,Süd
+161,1,2,6,east,est,este,Ost
+162,1,2,6,west,Ouest,Oeste,West
+163,1,2,6,sun,soleil,sol,Sonne
+164,1,2,6,moon,lune,luna,Mond
+165,1,2,6,sky,ciel,cielo,Himmel
+166,1,2,6,cloud,nuage,nube,Wolke
+167,1,2,6,rain,pluie,lluvia,Regen
+168,1,2,6,snow,neige,nieve,Schnee
+169,1,2,6,head,tête,cabeza,Kopf
+170,1,2,6,leg,jambe,pierna,Bein
+171,1,2,6,heart,cœur,corazón,Herz
+172,1,2,6,stomach,estomac,estómago,Magen
+173,1,2,6,medicine,médecine,medicamento,Medizin
+174,1,2,6,map,carte,mapa,Karte
+175,1,2,6,number,nombre,número,Nummer
+176,2,2,6,it's raining too hard,Il pleut trop dur,está lloviendo demasiado,Es regnet zu hart
+177,2,2,6,you should take your medicines,Vous devriez prendre vos médicaments,Debes tomar tus medicamentos,Sie sollten Ihre Medikamente einnehmen
+178,2,2,6,juan has a pain in his head,Juan a une douleur dans sa tête,Juan tiene un dolor en la cabeza,Juan hat Schmerzen im Kopf
+179,2,2,6,say numbers between one to ten,Dites des chiffres entre un à dix,Diga números entre uno a diez,Sagen Sie Zahlen zwischen eins und zehn
+180,2,2,6,moon feels good,la lune se sent bien,La luna se siente bien,Mond fühlt sich gut an
+181,2,2,6,first go straight then left,Allez d'abord directement puis à gauche,Primero ve recto y luego a la izquierda,Gehen Sie zuerst geradeaus und gehen Sie dann links
+182,2,2,6,sun rises in the east,Le soleil se lève à l'est,El sol sale en el este,Die Sonne steigt im Osten auf
+183,2,2,6,sun sets in the west,coucher du soleil à l'ouest,Sol se pone en el oeste,Sonne untergeht im Westen
+184,2,2,6,can u provide the direction,pouvez-vous fournir la direction,¿Puedes proporcionar la dirección?,Kannst du die Richtung liefern?
+185,2,2,6,the snow is soft,La neige est douce,la nieve es suave,Der Schnee ist weich
+186,1,3,7,happy,heureux,feliz,Glücklich
+187,1,3,7,sad,triste,triste,traurig
+188,1,3,7,angry,en colère,enojado,wütend
+189,1,3,7,excited,excité,entusiasmado,aufgeregt
+190,1,3,7,tired,fatigué,cansado,müde
+191,1,3,7,bored,ennuyé,aburrido,gelangweilt
+192,1,3,7,calm,calme,calma,ruhig
+193,1,3,7,ticket,billet,boleto,Fahrkarte
+194,1,3,7,bus,bus,autobús,Bus
+195,1,3,7,car,voiture,auto,Auto
+196,1,3,7,computer,ordinateur,computadora,Computer
+197,1,3,7,table,tableau,mesa,Tisch
+198,1,3,7,chair,chaise,silla,Stuhl
+199,1,3,7,window,fenêtre,ventana,Fenster
+200,1,3,7,book,livre,libro,Buch
+201,1,3,7,festival,festival,festival,Festival
+202,1,3,7,dog,chien,perro,Hund
+203,1,3,7,bird,oiseau,pájaro,Vogel
+204,1,3,7,horse,cheval,caballo,Pferd
+205,1,3,7,lion,lion,león,Löwe
+206,2,3,7,lion is the king of forest,Le lion est le roi de la forêt,León es el rey del bosque,Löwe ist der König des Waldes
+207,2,3,7,computer is smart,L'ordinateur est intelligent,la computadora es inteligente,Computer ist intelligent
+208,2,3,7,I need a bus,J'ai besoin d'un bus,Necesito un autobús,Ich brauche einen Bus
+209,2,3,7,bird is in the window,L'oiseau est dans la fenêtre,Bird está en la ventana,Vogel ist im Fenster
+210,2,3,7,juan seems happy,Juan semble heureux,Juan parece feliz,Juan scheint glücklich zu sein
+211,2,3,7,this work is boring,Ce travail est ennuyeux,Este trabajo es aburrido,Diese Arbeit ist langweilig
+212,2,3,7,sit on the chair,s'asseoir sur la chaise,sientate en la silla,auf dem Stuhl sitzen
+213,2,3,7,excited for festival,Excité pour le festival,Emocionado por el festival,aufgeregt für Festival
+214,2,3,7,leela was angry,Leela était en colère,Leela estaba enojada,Leela war wütend
+215,2,3,7,please calm down,Calmez vous s'il vous plait,por favor calmate,bitte beruhigen
+216,1,3,8,rice,riz,arroz,Reis
+217,1,3,8,vegetables,légumes,verduras,Gemüse
+218,1,3,8,fish,poisson,pez,Fisch
+219,1,3,8,october,octobre,octubre,Oktober
+220,1,3,8,november,novembre,noviembre,November
+221,1,3,8,december,décembre,diciembre,Dezember
+222,1,3,8,red,rouge,rojo,Rot
+223,1,3,8,yellow,jaune,amarillo,Gelb
+224,1,3,8,blue,bleu,azul,Blau
+225,1,3,8,green,vert,verde,Grün
+226,1,3,8,million,million,millón,Million
+227,1,3,8,billion,milliard,mil millones,Milliarde
+228,1,3,8,guitar,guitare,guitarra,Gitarre
+229,1,3,8,piano,piano,piano,Klavier
+230,1,3,8,social media,réseaux sociaux,medios de comunicación social,sozialen Medien
+231,1,3,8,India,Inde,India,Indien
+232,1,3,8,hour,heure,hora,Stunde
+233,1,3,8,house,maison,casa,Haus
+234,1,3,8,kitchen,cuisine,cocina,Küche
+235,1,3,8,year,année,año,Jahr
+236,2,3,8,I like red colour,J'aime la couleur rouge,Me gusta el color rojo,Ich mag rote Farbe
+237,2,3,8,seema plays piano very well,Seema joue très bien du piano,Seema juega muy bien el piano,Seema spielt sehr gut Klavier
+238,2,3,8,I am from India,Je viens d'Inde,yo soy de India,Ich komme aus Indien
+239,2,3,8,which year is it?,De quelle année est-ce?,¿En qué año es?,Welches Jahr ist es?
+240,2,3,8,there are millions of stars,Il y a des millions d'étoiles,Hay millones de estrellas,Es gibt Millionen von Sternen
+241,2,3,8,elon musk is a billionaire,Elon Musk est un milliardaire,Elon Musk es multimillonario,Elon Moschus ist ein Milliardär
+242,2,3,8,for diet eat rice,pour le régime alimentaire du riz,"Para la dieta, comer arroz",Für Diät Rice essen
+243,2,3,8,december is the last month,Décembre est le dernier mois,Diciembre es el último mes,Der Dezember ist der letzte Monat
+244,2,3,8,I own a house,Je possède une maison,Soy dueño de una casa,Ich besitze ein Haus
+245,2,3,8,kitchen is the best part of a house,La cuisine est la meilleure partie d'une maison,La cocina es la mejor parte de una casa,Küche ist der beste Teil eines Hauses
